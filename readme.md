@@ -9,6 +9,8 @@
 
 5. `pip install -r requirements.txt`
 
+6. Google API key https://aistudio.google.com/
+
 ## Other commands
 * Run Streamlit app using `streamlit run app.py`
 * Ollama 

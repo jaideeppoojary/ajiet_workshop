@@ -6,3 +6,7 @@ dependencies:
   - pip
   - pip:
     - langchain
+    - langchain-google-genai
+    - streamlit
+    - python-dotenv
+    - pymongo

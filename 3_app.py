@@ -6,6 +6,8 @@ from _3_ai_handler import generate_message_response
 
 load_dotenv()
 
+# Task: Getting Data from DB
+
 st.title("Generative AI app")
 
 llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash")

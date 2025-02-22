@@ -11,6 +11,8 @@
 
 6. Google API key https://aistudio.google.com/
 
+7. Feedback form: https://form.jotform.com/250517498345464
+
 ## Other commands
 * Run Streamlit app using `streamlit run app.py`
 * Ollama 
